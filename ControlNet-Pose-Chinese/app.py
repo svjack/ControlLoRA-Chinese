@@ -107,7 +107,7 @@ with block:
             prompt = gr.Textbox(label="Prompt", value = "麦田守望者")
             run_button = gr.Button(label="Run")
             with gr.Accordion("Advanced options", open=False):
-                num_samples = gr.Slider(label="Images", minimum=1, maximum=12, value=1, step=1)
+                num_samples = gr.Slider(label="Images", minimum=1, maximum=12, value=3, step=1)
                 image_resolution = gr.Slider(label="Image Resolution", minimum=256, maximum=768, value=512, step=256)
                 detect_resolution = gr.Slider(label="OpenPose Resolution", minimum=128, maximum=1024, value=512, step=1)
                 sample_steps = gr.Slider(label="Steps", minimum=1, maximum=100, value=30, step=1)
