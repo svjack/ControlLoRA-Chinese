@@ -67,7 +67,7 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 <tr>
 <td>ControlNet By Canny Chinese 🔪</td>
 <td>表情俏皮的小丑</td>
-<td><img src="imgs/Protector_Cromwell_style.png" alt="Girl in a jacket" width="256" height="256"></td>
+<td><img src="imgs/Protector_Cromwell_style.png" alt="Girl in a jacket" width="128" height="128"></td>
 <td><img src="imgs/cromwell_backbone.png" alt="Girl in a jacket" width="256" height="256"></td>
 <td><img src="imgs/cromwell_clown.png" alt="Girl in a jacket" width="256" height="256"></td>
 </tr>
@@ -75,7 +75,7 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 <tr>
 <td>ControlNet By Canny Chinese 🔪</td>
 <td>满布流星的夜晚</td>
-<td><img src="imgs/window.png" alt="Girl in a jacket" width="256" height="256"></td>
+<td><img src="imgs/window.png" alt="Girl in a jacket" width="128" height="128"></td>
 <td><img src="imgs/window_backbone.png" alt="Girl in a jacket" width="256" height="256"></td>
 <td><img src="imgs/window_in_night.png" alt="Girl in a jacket" width="256" height="256"></td>
 </tr>
@@ -83,7 +83,7 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 <tr>
 <td>ControlNet By Canny Chinese 🔪</td>
 <td>猫咪吸血鬼</td>
-<td><img src="imgs/cat.gif" alt="Girl in a jacket" width="256" height="256"></td>
+<td><img src="imgs/cat.gif" alt="Girl in a jacket" width="128" height="128"></td>
 <td><img src="imgs/cat_backbone.png" alt="Girl in a jacket" width="256" height="256"></td>
 <td><img src="imgs/vampire_cat.png" alt="Girl in a jacket" width="256" height="256"></td>
 </tr>
@@ -91,7 +91,7 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 <tr>
 <td>ControlNet By Pose Chinese 🏃</td>
 <td>麦田守望者</td>
-<td><img src="imgs/war.jpg" alt="Girl in a jacket" width="256" height="256"></td>
+<td><img src="imgs/war.jpg" alt="Girl in a jacket" width="128" height="128"></td>
 <td><img src="imgs/war_pose.png" alt="Girl in a jacket" width="256" height="256"></td>
 <td><img src="imgs/catcher_in_the_rye.png" alt="Girl in a jacket" width="256" height="256"></td>
 </tr>
@@ -99,7 +99,7 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 <tr>
 <td>ControlNet By Pose Chinese 🏃</td>
 <td>身穿军服的军官</td>
-<td><img src="imgs/woman.jpeg" alt="Girl in a jacket" width="256" height="256"></td>
+<td><img src="imgs/woman.jpeg" alt="Girl in a jacket" width="128" height="128"></td>
 <td><img src="imgs/woman_pose.png" alt="Girl in a jacket" width="256" height="256"></td>
 <td><img src="imgs/man_in_uniform.png" alt="Girl in a jacket" width="256" height="256"></td>
 </tr>
