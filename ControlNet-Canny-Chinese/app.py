@@ -104,7 +104,7 @@ with block:
             prompt = gr.Textbox(label="Prompt", value = "一个表情俏皮的小丑")
             run_button = gr.Button(label="Run")
             with gr.Accordion("Advanced options", open=False):
-                num_samples = gr.Slider(label="Images", minimum=1, maximum=12, value=1, step=1)
+                num_samples = gr.Slider(label="Images", minimum=1, maximum=12, value=3, step=1)
                 image_resolution = gr.Slider(label="Image Resolution", minimum=256, maximum=768, value=512, step=256)
                 low_threshold = gr.Slider(label="Canny low threshold", minimum=1, maximum=255, value=100, step=1)
                 high_threshold = gr.Slider(label="Canny high threshold", minimum=1, maximum=255, value=200, step=1)
