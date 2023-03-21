@@ -111,7 +111,10 @@ Open your browser ,go to http://localhost:7860 to try it on browser.
 ## More Info and Disscussion
 LoRA: Low-Rank Adaptation of Large Language Models
 LoRA reduces the number of trainable parameters by learning pairs of rank-decompostion matrices while freezing the original weights. This vastly reduces the storage requirement for large language models adapted to specific tasks and enables efficient task-switching during deployment all without introducing inference latency. LoRA also outperforms several other adaptation methods including adapter, prefix-tuning, and fine-tuning.
+<br/>
+<br/>
 In the Stable Diffusion domain, I also provide three Stable Diffusion model finetuned with the help of Lora.
+The CC3M dataset download and transformed from repo [svjack/img2dataset-pq2hf-transform-toolkit](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit)
 
 ### Self trained other Lora Related Model demonstration
 
