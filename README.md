@@ -114,7 +114,7 @@ LoRA reduces the number of trainable parameters by learning pairs of rank-decomp
 <br/>
 <br/>
 In the Stable Diffusion domain, I also provide three Stable Diffusion model finetuned with the help of Lora.
-The CC3M dataset download and transformed from repo [svjack/img2dataset-pq2hf-transform-toolkit](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit)
+The CC3M dataset download and transformed with the help of repo [svjack/img2dataset-pq2hf-transform-toolkit](https://github.com/svjack/img2dataset-pq2hf-transform-toolkit)
 
 ### Self trained other Lora Related Model demonstration
 
