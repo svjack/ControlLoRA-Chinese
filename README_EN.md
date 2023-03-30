@@ -9,6 +9,8 @@
   </p>
 </p>
 
+[中文简介](README.md)
+
 ### Brief introduction
 [ControlLoRA](https://github.com/HighCWu/ControlLoRA) is a project that can easily fine-tune stable diffusion to achieve the purpose of controlling its spatial information, with LoRA, a simple and small (~7M parameters, ~25M storage space) network. More information can be seen in [ControlLoRA](https://github.com/HighCWu/ControlLoRA).<br/>
 This project can be seen as a fork from [ControlLoRA](https://github.com/HighCWu/ControlLoRA) and give two models in Chinese domain use [ControlLoRA](https://github.com/HighCWu/ControlLoRA)'s source code.<br/>
