@@ -30,7 +30,7 @@ input Chinese prompt. But because the deployments are on cpu device. I recommend
 pip install -r requirements.txt
 ```
 
-#### Runing by gradio deployment
+#### Running by gradio deployment
 After installtion, One can cd into [ControlNet-Canny-Chinese](ControlNet-Canny-Chinese) and [ControlNet-Pose-Chinese](ControlNet-Pose-Chinese) and run
 ```bash
 python app.py
